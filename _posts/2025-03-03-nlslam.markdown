@@ -9,4 +9,4 @@ venue: "arXiv"
 arxiv: https://arxiv.org/pdf/2411.07848
 website: https://sonia-raychaudhuri.github.io/nlslam/
 ---
-A zero-shot method to ground natural language instructions to a Language Inferred Factor Graph for Instruction Following and a policy to use this for object-centric Vision-and-Language Navigation
+A zero-shot method to ground natural language instructions to a factor graph and a policy to use this for object-centric Vision-and-Language Navigation
