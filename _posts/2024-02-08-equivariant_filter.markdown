@@ -8,4 +8,4 @@ authors: "Tarek Bouazza, <strong>Katrina Ashton</strong>, Pieter van Goor, Rober
 venue: "Conference on Decision and Control (CDC)"
 paper_link: https://hal.science/hal-04445881/document
 ---
-Desiging a nonlinear observer for homography estimation for arbitrary trajectories using the Equivariant Filter framework by exploiting the Lie group structure of SL(3) 
+Homography estimation for arbitrary trajectories using the Equivariant Filter framework by exploiting the Lie group structure of SL(3) 
