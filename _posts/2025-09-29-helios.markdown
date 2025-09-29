@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "HELIOS: Hierarchical Exploration for Language-grounded Interaction in Open Scenes"
+date:   2025-09-29 22:21:59 +00:00
+image: /images/2025_helios.png
+categories: research
+authors: "<strong>Katrina Ashton</strong>, Chahyon Ku, Shrey Shah, Wen Jiang, Kostas Daniilidis, Bernadette Bucher"
+venue: "ICCV 2025"
+arxiv: https://arxiv.org/abs/2509.22498
+website: https://helios-robot-perception.github.io/
+---
+A zero-shot method for language-specified pick and place tasks by reasoning over a hierarchical scene representation with a global search policy to balance exploration and exploitation and an uncertainty-aware object score to allow us to only interact with objects after enough views have been captured to be confident of their class
