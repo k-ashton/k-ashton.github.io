@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "Multimodal LLM Guided Exploration and Active Mapping using Fisher Information"
-date:   2024-12-04 22:21:59 +00:00
+date:   2025-04-04 22:21:59 +00:00
 image: /images/2024_agslam.png
 categories: research
 authors: "Wen Jiang*, Boshu Lei*, <strong>Katrina Ashton</strong>, Kostas Daniilidis"
-venue: "ICCV 2025"
+venue: "ICCV"
 arxiv: https://arxiv.org/pdf/2410.17422
 ---
 An active Gaussian Splatting SLAM system with active exploration strategy which balances the accuracy of mapping and localization
