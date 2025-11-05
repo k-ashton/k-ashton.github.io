@@ -5,7 +5,7 @@ date:   2025-09-28 22:21:59 +00:00
 image: /images/2025_helios.png
 categories: research
 authors: "<strong>Katrina Ashton</strong>, Chahyon Ku, Shrey Shah, Wen Jiang, Kostas Daniilidis, Bernadette Bucher"
-venue: "ICCV 2025"
+venue: "arXiv"
 arxiv: https://arxiv.org/abs/2509.22498
 website: https://helios-robot-perception.github.io/
 ---
